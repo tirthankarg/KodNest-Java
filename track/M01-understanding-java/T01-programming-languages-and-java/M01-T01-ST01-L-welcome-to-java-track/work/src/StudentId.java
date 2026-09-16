@@ -9,3 +9,6 @@ public class StudentId {
         System.out.println("--------------------");
     }
 }
+
+// 13,11,12,12
+// 5+7+6+5+
