@@ -18,7 +18,7 @@ class ArrayRev {
 
         System.out.println(Arrays.toString(arrRev));
         System.out.println(Arrays.toString(arr));
-
-        sc.close();    
+        
+        sc.close();
     }
 }
